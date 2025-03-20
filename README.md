@@ -1,4 +1,3 @@
 # PrimeiroGH
-Repositório utilizando prompt de comando
 
-Adicionei qualquer coisa
+Descrição do projeto de teste
